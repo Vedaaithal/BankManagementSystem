@@ -1,0 +1,2 @@
+101|Shriveda Aithal|Mangalore|12345678|1010
+102|Sonica|Mangalore|12345678|390

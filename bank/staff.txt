@@ -1,0 +1,3 @@
+shri|Shriveda|Mangalore|12345678
+shriv|shriveda Aithal|Kundapur|12344564
+shri22|Shriveda|Kundapur|12345678
